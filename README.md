@@ -57,4 +57,16 @@ Tugas 1 MK PPL TIF RP 17 CID B Kelompok 2:
   ```
   SELECT * FROM tb_barang
   ```
-  Dari query diatas akan ditampilkan data yang baru kita masukkan kedalam tabel tb_barang
+  Dari query diatas akan ditampilkan data yang baru kita masukkan kedalam tabel tb_barang seperti berikut
+  ```
+  +===========+=============+======+=======+
+  | id_barang | nama_barang | stok | harga |
+  +===========+=============+======+=======+
+  | 1         | Aqua Gelas  | 75   | 500   |
+  +-----------+-------------+------+-------+
+  | 2         | Teh Pucuk   | 30   | 3500  |
+  +-----------+-------------+------+-------+
+  ```
+
+
+END
