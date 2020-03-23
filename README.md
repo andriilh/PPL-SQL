@@ -1,5 +1,5 @@
 # PPL-SQL
-Tugas 1 MK PPL TIF RP 17 CID B Kelompok 2:
+Tugas 2 MK PPL TIF RP 17 CID B Kelompok 2:
   * Andri Ilham (17111322)
   * Hesty Sugesty (17111328)
   * Ikhsan Alfath (17111050)
