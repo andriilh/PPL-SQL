@@ -1,9 +1,9 @@
 # PPL-SQL
 Tugas 1 MK PPL TIF RP 17 CID B Kelompok 2:
-  * Andri Ilham
-  * Hesti Sugesti
-  * Ikhsan Alfath
-  * Siti Muayanah
+  * Andri Ilham (17111322)
+  * Hesty Sugesty (17111328)
+  * Ikhsan Alfath (17111050)
+  * Siti Muayanah (17111139)
   
   Dalam tugas ini kami membuat sebuah database barang dengan nama db_barang menggunakan mySQL.
   
